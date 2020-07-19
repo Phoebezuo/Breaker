@@ -82,7 +82,6 @@ Each level will contain the following ﬁelds:
 		{ "x" : 0, "y" : 0, "id" : "brick_blue" }, 
       		{ "x" : 20, "y" : 0, "id" : "brick_red" }, 
       		{ "x" : 40, "y" : 0, "id" : "brick_pink" },
-      		...
 	]
 }
 ```
@@ -155,7 +154,7 @@ The player will lose when
             {"x" : 40, "y" : 10, "id" : "brick_pink", "hp" : 2, "powerup" : "multiball"},
             {"x" : 40, "y" : 20, "id" : "brick_pink", "hp" : 1},
             
-    		{"x" : 520, "y" : 0, "id" : "brick_pink", "hp" : 1},
+    	    {"x" : 520, "y" : 0, "id" : "brick_pink", "hp" : 1},
             {"x" : 520, "y" : 10, "id" : "brick_pink", "hp" : 6},
             {"x" : 520, "y" : 20, "id" : "brick_pink", "hp" : 1},
         ]
@@ -220,7 +219,8 @@ The player will lose when
 
         ``` java
          velocity[0] = - 5 + (Math.abs(x - rect.x) * (10 / (double) rect.width));
-        // double is used due to / sign of two integers only gives integer, but I want double, so I type casting one of them, java can automate type casting from int to double 
+        // double is used due to / sign of two integers only gives integer, but I want double, 
+	// so I type casting one of them, java can automate type casting from int to double 
          velocity[1] =  - Math.abs(-5 - velocity[0]);
         ```
 
