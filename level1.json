@@ -1,0 +1,114 @@
+{
+    "name" : "level1",
+    "next_level" : "level2",
+    "bricks" : [
+
+        {"x" : 0, "y" : 0, "id" : "brick_red", "hp" : 1},
+        {"x" : 0, "y" : 10, "id" : "brick_red", "hp" : 1},
+        {"x" : 0, "y" : 20, "id" : "brick_red", "hp" : 1},
+
+        {"x" : 20, "y" : 0, "id" : "brick_blue", "hp" : 1},
+        {"x" : 20, "y" : 10, "id" : "brick_blue", "hp" : 1},
+        {"x" : 20, "y" : 20, "id" : "brick_blue", "hp" : 1},
+
+        {"x" : 40, "y" : 0, "id" : "brick_pink", "hp" : 1},
+        {"x" : 40, "y" : 10, "id" : "brick_pink", "hp" : 1},
+        {"x" : 40, "y" : 20, "id" : "brick_pink", "hp" : 1},
+
+        {"x" : 60, "y" : 0, "id" : "brick_green", "hp" : 1},
+        {"x" : 60, "y" : 10, "id" : "brick_green", "hp" : 1},
+        {"x" : 60, "y" : 20, "id" : "brick_green", "hp" : 1},
+
+        {"x" : 80, "y" : 0, "id" : "brick_red", "hp" : 1},
+        {"x" : 80, "y" : 10, "id" : "brick_red", "hp" : 1},
+        {"x" : 80, "y" : 20, "id" : "brick_red", "hp" : 1},
+
+        {"x" : 100, "y" : 0, "id" : "brick_blue", "hp" : 1},
+        {"x" : 100, "y" : 10, "id" : "brick_blue", "hp" : 1},
+        {"x" : 100, "y" : 20, "id" : "brick_blue", "hp" : 1},
+
+        {"x" : 120, "y" : 0, "id" : "brick_pink", "hp" : 1},
+        {"x" : 120, "y" : 10, "id" : "brick_pink", "hp" : 1},
+        {"x" : 120, "y" : 20, "id" : "brick_pink", "hp" : 1},
+
+        {"x" : 140, "y" : 0, "id" : "brick_green", "hp" : 1},
+        {"x" : 140, "y" : 10, "id" : "brick_green", "hp" : 1},
+        {"x" : 140, "y" : 20, "id" : "brick_green", "hp" : 1},
+
+        {"x" : 160, "y" : 0, "id" : "brick_red", "hp" : 1},
+        {"x" : 160, "y" : 10, "id" : "brick_red", "hp" : 1},
+        {"x" : 160, "y" : 20, "id" : "brick_red", "hp" : 1},
+
+        {"x" : 180, "y" : 0, "id" : "brick_blue", "hp" : 1},
+        {"x" : 180, "y" : 10, "id" : "brick_blue", "hp" : 1},
+        {"x" : 180, "y" : 20, "id" : "brick_blue", "hp" : 1},
+
+        {"x" : 200, "y" : 0, "id" : "brick_pink", "hp" : 1},
+        {"x" : 200, "y" : 10, "id" : "brick_pink", "hp" : 1},
+        {"x" : 200, "y" : 20, "id" : "brick_pink", "hp" : 1},
+
+        {"x" : 220, "y" : 0, "id" : "brick_green", "hp" : 1},
+        {"x" : 220, "y" : 10, "id" : "brick_green", "hp" : 1},
+        {"x" : 220, "y" : 20, "id" : "brick_green", "hp" : 1},
+
+        {"x" : 240, "y" : 0, "id" : "brick_red", "hp" : 1},
+        {"x" : 240, "y" : 10, "id" : "brick_red", "hp" : 1},
+        {"x" : 240, "y" : 20, "id" : "brick_red", "hp" : 1},
+
+        {"x" : 260, "y" : 0, "id" : "brick_blue", "hp" : 1},
+        {"x" : 260, "y" : 10, "id" : "brick_blue", "hp" : 1},
+        {"x" : 260, "y" : 20, "id" : "brick_blue", "hp" : 1},
+
+        {"x" : 280, "y" : 0, "id" : "brick_pink", "hp" : 1},
+        {"x" : 280, "y" : 10, "id" : "brick_pink", "hp" : 1},
+        {"x" : 280, "y" : 20, "id" : "brick_pink", "hp" : 1},
+
+        {"x" : 300, "y" : 0, "id" : "brick_green", "hp" : 1},
+        {"x" : 300, "y" : 10, "id" : "brick_green", "hp" : 1},
+        {"x" : 300, "y" : 20, "id" : "brick_green", "hp" : 1},
+
+        {"x" : 320, "y" : 0, "id" : "brick_red", "hp" : 1},
+        {"x" : 320, "y" : 10, "id" : "brick_red", "hp" : 1},
+        {"x" : 320, "y" : 20, "id" : "brick_red", "hp" : 1},
+
+        {"x" : 340, "y" : 0, "id" : "brick_blue", "hp" : 1},
+        {"x" : 340, "y" : 10, "id" : "brick_blue", "hp" : 1},
+        {"x" : 340, "y" : 20, "id" : "brick_blue", "hp" : 1},
+
+        {"x" : 360, "y" : 0, "id" : "brick_pink", "hp" : 1},
+        {"x" : 360, "y" : 10, "id" : "brick_pink", "hp" : 1},
+        {"x" : 360, "y" : 20, "id" : "brick_pink", "hp" : 1},
+
+        {"x" : 380, "y" : 0, "id" : "brick_green", "hp" : 1},
+        {"x" : 380, "y" : 10, "id" : "brick_green", "hp" : 1},
+        {"x" : 380, "y" : 20, "id" : "brick_green", "hp" : 1},
+
+        {"x" : 400, "y" : 0, "id" : "brick_red", "hp" : 1},
+        {"x" : 400, "y" : 10, "id" : "brick_red", "hp" : 1},
+        {"x" : 400, "y" : 20, "id" : "brick_red", "hp" : 1},
+
+        {"x" : 420, "y" : 0, "id" : "brick_blue", "hp" : 1},
+        {"x" : 420, "y" : 10, "id" : "brick_blue", "hp" : 1},
+        {"x" : 420, "y" : 20, "id" : "brick_blue", "hp" : 1},
+
+        {"x" : 440, "y" : 0, "id" : "brick_pink", "hp" : 1},
+        {"x" : 440, "y" : 10, "id" : "brick_pink", "hp" : 1},
+        {"x" : 440, "y" : 20, "id" : "brick_pink", "hp" : 1},
+
+        {"x" : 460, "y" : 0, "id" : "brick_green", "hp" : 1},
+        {"x" : 460, "y" : 10, "id" : "brick_green", "hp" : 1},
+        {"x" : 460, "y" : 20, "id" : "brick_green", "hp" : 1},
+
+        {"x" : 480, "y" : 0, "id" : "brick_red", "hp" : 1},
+        {"x" : 480, "y" : 10, "id" : "brick_red", "hp" : 1},
+        {"x" : 480, "y" : 20, "id" : "brick_red", "hp" : 1},
+
+        {"x" : 500, "y" : 0, "id" : "brick_blue", "hp" : 1},
+        {"x" : 500, "y" : 10, "id" : "brick_blue", "hp" : 1},
+        {"x" : 500, "y" : 20, "id" : "brick_blue", "hp" : 1},
+
+        {"x" : 520, "y" : 0, "id" : "brick_pink", "hp" : 1},
+        {"x" : 520, "y" : 10, "id" : "brick_pink", "hp" : 1},
+        {"x" : 520, "y" : 20, "id" : "brick_pink", "hp" : 1},
+    ]
+}
