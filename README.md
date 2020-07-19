@@ -101,7 +101,7 @@ The player will lose when
 
 ## UML
 
-![UML](Breaker/UML.png)
+![UML](https://github.com/Phoebezuo/Breaker/blob/master/UML.png)
 
 ## Game UI
 
