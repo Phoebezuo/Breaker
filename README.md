@@ -105,9 +105,9 @@ The player will lose when
 
 ## Game UI
 
-![StartPage](Breaker/StartPage.png)
+![StartPage](https://github.com/Phoebezuo/Breaker/blob/master/StartPage.png)
 
-![PlayPage](Breaker/PlayPage.png)
+![PlayPage](https://github.com/Phoebezuo/Breaker/blob/master/PlayPage.png)
 
 ## Extension 
 
