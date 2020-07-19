@@ -79,11 +79,11 @@ Each level will contain the following ﬁelds:
 {
   	"name" : "Level1", 
   	"bricks" : [
-				{ "x" : 0, "y" : 0, "id" : "brick_blue" }, 
-      	{ "x" : 20, "y" : 0, "id" : "brick_red" }, 
-      	{ "x" : 40, "y" : 0, "id" : "brick_pink" },
-      	...
-		]
+		{ "x" : 0, "y" : 0, "id" : "brick_blue" }, 
+      		{ "x" : 20, "y" : 0, "id" : "brick_red" }, 
+      		{ "x" : 40, "y" : 0, "id" : "brick_pink" },
+      		...
+	]
 }
 ```
 
@@ -101,13 +101,13 @@ The player will lose when
 
 ## UML
 
-![UML](/Users/phoebezuo/Desktop/Breaker/UML.png)
+![UML](Breaker/UML.png)
 
 ## Game UI
 
-![StartPage](/Users/phoebezuo/Desktop/Breaker/StartPage.png)
+![StartPage](Breaker/StartPage.png)
 
-![PlayPage](/Users/phoebezuo/Desktop/Breaker/PlayPage.png)
+![PlayPage](Breaker/PlayPage.png)
 
 ## Extension 
 
