@@ -21,9 +21,9 @@ sdk use java 8.0.262-zulu
 
 ### Windows
 
-Install [this]([]()) package manager
+Install [this](https://chocolatey.org/) package manager
 
-Follow a set of instructions [here]([]())
+Follow a set of instructions [here](https://chocolatey.org/install)
 
 Then install gradle via chocolatey
 
@@ -31,7 +31,7 @@ Then install gradle via chocolatey
 choco install gradle
 ```
 
-More information on [how to install gradle]([]())
+More information on [how to install gradle](https://gradle.org/install/)
 
 ## Run the Programming Using Gradle
 
