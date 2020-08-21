@@ -2,6 +2,19 @@
 
 A simple desktop game called Breaker. Breaker is a simple Breakout style game where the aim of game is break the bricks within the stage and to continue until the player loses. 
 
+## Install SKD
+
+```bash
+# install sdk vis curl
+curl -s "https://get.sdkman.io" | bash
+
+# activate sdk 
+source "$HOME/.sdkman/bin/sdkman-init.sh"
+
+# check the sdk version 
+sdk version
+```
+
 ## Install Gradle
 
 ### Linux & MacOS
@@ -12,12 +25,17 @@ Use SDK to install gradl
 # intall vis sdk
 sdk install gradle
 
+# find suitable java version, normally 8.0.x
+sdk list java 
+
 # install java specific version 
 sdk install java 8.0.262-zulu
 
 # tell sdkman to use a specific version
 sdk use java 8.0.262-zulu
 ```
+
+![Screen Shot 2020-08-21 at 4.17.41 pm.png](https://i.loli.net/2020/08/21/jqHLN7YAlws3T9x.png)
 
 ### Windows
 
